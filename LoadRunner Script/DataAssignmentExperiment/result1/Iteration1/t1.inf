@@ -1,0 +1,13 @@
+[t1]
+SnapshotXmlFile=snapshot_1.xml
+ContentType=text/html
+StepName=Url: web_url
+Total=1
+FileName1=t1.html
+RequestHeaderFile=t1_RequestHeader.txt
+ResponseHeaderFile=t1_ResponseHeader.txt
+RawStepEndTime=1488520010109
+RawStepName=web_url
+RequestBodyFile=t1_RequestBody.txt
+RawStepStartTime=1488520009797
+URL1=http://localhost:8080/login?from=/

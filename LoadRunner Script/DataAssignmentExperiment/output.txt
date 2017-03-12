@@ -1,0 +1,56 @@
+Virtual User Script started at : 3/2/2017 11:46:49 PM
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 12.53.0 for Windows 10; build 1203 (Mar 02 2017 19:13:20)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)  	[MsgId: MMSG-26988]
+Run-Time Settings file: "C:\Users\Navee\Documents\VuGen\Scripts\DataAssignmentExperiement\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Action.
+Action.c(5): Notify: Transaction "OR" started.
+Action.c(7): web_url("web_url") started  	[MsgId: MMSG-26355]
+Action.c(7): Found resource "http://localhost:8080/static/e0747a62/css/layout-common.css" in HTML "http://localhost:8080/login?from=%2F"  	[MsgId: MMSG-26659]
+Action.c(7): Found resource "http://localhost:8080/static/e0747a62/css/style.css" in HTML "http://localhost:8080/login?from=%2F"  	[MsgId: MMSG-26659]
+Action.c(7): Found resource "http://localhost:8080/static/e0747a62/css/color.css" in HTML "http://localhost:8080/login?from=%2F"  	[MsgId: MMSG-26659]
+Action.c(7): Found resource "http://localhost:8080/static/e0747a62/css/responsive-grid.css" in HTML "http://localhost:8080/login?from=%2F"  	[MsgId: MMSG-26659]
+Action.c(7): Found resource "http://localhost:8080/static/e0747a62/scripts/prototype.js" in HTML "http://localhost:8080/login?from=%2F"  	[MsgId: MMSG-26659]
+Action.c(7): Found resource "http://localhost:8080/static/e0747a62/scripts/behavior.js" in HTML "http://localhost:8080/login?from=%2F"  	[MsgId: MMSG-26659]
+Action.c(7): Found resource "http://localhost:8080/adjuncts/e0747a62/org/kohsuke/stapler/bind.js" in HTML "http://localhost:8080/login?from=%2F"  	[MsgId: MMSG-26659]
+Action.c(7): Found resource "http://localhost:8080/static/e0747a62/scripts/yui/yahoo/yahoo-min.js" in HTML "http://localhost:8080/login?from=%2F"  	[MsgId: MMSG-26659]
+Action.c(7): Found resource "http://localhost:8080/static/e0747a62/scripts/yui/dom/dom-min.js" in HTML "http://localhost:8080/login?from=%2F"  	[MsgId: MMSG-26659]
+Action.c(7): Found resource "http://localhost:8080/static/e0747a62/scripts/yui/event/event-min.js" in HTML "http://localhost:8080/login?from=%2F"  	[MsgId: MMSG-26659]
+Action.c(7): Found resource "http://localhost:8080/static/e0747a62/scripts/yui/animation/animation-min.js" in HTML "http://localhost:8080/login?from=%2F"  	[MsgId: MMSG-26659]
+Action.c(7): Found resource "http://localhost:8080/static/e0747a62/scripts/yui/dragdrop/dragdrop-min.js" in HTML "http://localhost:8080/login?from=%2F"  	[MsgId: MMSG-26659]
+Action.c(7): Found resource "http://localhost:8080/static/e0747a62/scripts/yui/container/container-min.js" in HTML "http://localhost:8080/login?from=%2F"  	[MsgId: MMSG-26659]
+Action.c(7): Found resource "http://localhost:8080/static/e0747a62/scripts/yui/connection/connection-min.js" in HTML "http://localhost:8080/login?from=%2F"  	[MsgId: MMSG-26659]
+Action.c(7): Found resource "http://localhost:8080/static/e0747a62/scripts/yui/datasource/datasource-min.js" in HTML "http://localhost:8080/login?from=%2F"  	[MsgId: MMSG-26659]
+Action.c(7): Found resource "http://localhost:8080/static/e0747a62/scripts/yui/autocomplete/autocomplete-min.js" in HTML "http://localhost:8080/login?from=%2F"  	[MsgId: MMSG-26659]
+Action.c(7): Found resource "http://localhost:8080/static/e0747a62/scripts/yui/menu/menu-min.js" in HTML "http://localhost:8080/login?from=%2F"  	[MsgId: MMSG-26659]
+Action.c(7): Found resource "http://localhost:8080/static/e0747a62/scripts/yui/element/element-min.js" in HTML "http://localhost:8080/login?from=%2F"  	[MsgId: MMSG-26659]
+Action.c(7): Found resource "http://localhost:8080/static/e0747a62/scripts/yui/button/button-min.js" in HTML "http://localhost:8080/login?from=%2F"  	[MsgId: MMSG-26659]
+Action.c(7): Found resource "http://localhost:8080/static/e0747a62/scripts/yui/storage/storage-min.js" in HTML "http://localhost:8080/login?from=%2F"  	[MsgId: MMSG-26659]
+Action.c(7): Found resource "http://localhost:8080/static/e0747a62/scripts/hudson-behavior.js" in HTML "http://localhost:8080/login?from=%2F"  	[MsgId: MMSG-26659]
+Action.c(7): Found resource "http://localhost:8080/static/e0747a62/scripts/sortable.js" in HTML "http://localhost:8080/login?from=%2F"  	[MsgId: MMSG-26659]
+Action.c(7): Found resource "http://localhost:8080/static/e0747a62/scripts/yui/container/assets/container.css" in HTML "http://localhost:8080/login?from=%2F"  	[MsgId: MMSG-26659]
+Action.c(7): Found resource "http://localhost:8080/static/e0747a62/scripts/yui/assets/skins/sam/skin.css" in HTML "http://localhost:8080/login?from=%2F"  	[MsgId: MMSG-26659]
+Action.c(7): Found resource "http://localhost:8080/static/e0747a62/scripts/yui/container/assets/skins/sam/container.css" in HTML "http://localhost:8080/login?from=%2F"  	[MsgId: MMSG-26659]
+Action.c(7): Found resource "http://localhost:8080/static/e0747a62/scripts/yui/button/assets/skins/sam/button.css" in HTML "http://localhost:8080/login?from=%2F"  	[MsgId: MMSG-26659]
+Action.c(7): Found resource "http://localhost:8080/static/e0747a62/scripts/yui/menu/assets/skins/sam/menu.css" in HTML "http://localhost:8080/login?from=%2F"  	[MsgId: MMSG-26659]
+Action.c(7): Found resource "http://localhost:8080/static/e0747a62/scripts/msie.js" in HTML "http://localhost:8080/login?from=%2F"  	[MsgId: MMSG-26659]
+Action.c(7): Found resource "http://localhost:8080/static/e0747a62/jsbundles/page-init.js" in HTML "http://localhost:8080/login?from=%2F"  	[MsgId: MMSG-26659]
+Action.c(7): Found resource "http://localhost:8080/static/e0747a62/images/headshot.png" in HTML "http://localhost:8080/login?from=%2F"  	[MsgId: MMSG-26659]
+Action.c(7): Found resource "http://localhost:8080/static/e0747a62/images/title.png" in HTML "http://localhost:8080/login?from=%2F"  	[MsgId: MMSG-26659]
+Action.c(7): Found resource "http://localhost:8080/static/e0747a62/images/16x16/help.png" in HTML "http://localhost:8080/login?from=%2F"  	[MsgId: MMSG-26659]
+Action.c(7): Found resource "http://localhost:8080/adjuncts/e0747a62/lib/layout/breadcrumbs.css" in HTML "http://localhost:8080/login?from=%2F"  	[MsgId: MMSG-26659]
+Action.c(7): Found resource "http://localhost:8080/adjuncts/e0747a62/lib/layout/breadcrumbs.js" in HTML "http://localhost:8080/login?from=%2F"  	[MsgId: MMSG-26659]
+Action.c(7): web_url("web_url") was successful, 229290 body bytes, 11037 header bytes, 28 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(14): KY
+Action.c(16): Notify: Transaction "OR" ended with a "Pass" status (Duration: 0.3427 Wasted Time: 0.1654).
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.
